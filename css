@@ -12,13 +12,13 @@
            padding: 40px;
            width: 500px;
            margin: 20px auto;
-           background-color: #f80404;
+           background-color: #f1f1f1;
        }
        .container h2 {
            text-align: center;
        }
        fieldset {
-           border: 1px solid #0b08b1;
+           border: 1px solid #d4d4d4;
            padding: 20px 10px;
            margin-bottom: 20px;
            border-radius: 8px;
@@ -35,8 +35,8 @@
            font-weight: bold;
        }
        .icon {
-           background: #e3e303;
-           color: rgb(229, 16, 16);
+           background: #fcfcfa;
+           color: black;
            min-width: 40px;
            border: 2px solid #e2e2e2;
            border-right: none;
@@ -52,8 +52,8 @@
            text-align: center;
        }
        .submit {
-           color: rgb(45, 15, 15);
-           background: #1fec4c;
+           color: white;
+           background: #ee9a25;
            padding: 9px 25px;
            margin-right: 10px;
            border: none;
@@ -61,7 +61,7 @@
            box-shadow: 0 0 5px #c9c9c9;
        }
        .submit:hover {
-           background: #60e10a;
+           background: #d1871e;
        }
        .reset {
            color: white;
@@ -69,10 +69,10 @@
            padding: 9px 25px;
            border: none;
            border-radius: 5px;
-           box-shadow: 0 0 5px #ffffff;
+           box-shadow: 0 0 5px #c9c9c9;
        }
        .reset:hover {
-           background: #1909a2;
+           background: #a32727;
        }
    </style>
 </head>
@@ -160,24 +160,3 @@
    </div>
 </body>
 </html>
-
-
-
-
-<head>
-  <style>
-    form {
-      background-color: #f0f8ff; /* AliceBlue */
-      padding: 20px;
-      border-radius: 8px;
-    }
-
-
-
-
-    /* style.css */
-form {
-  background-color: rgb(238, 14, 14);
-  padding: 20px;
-}
-
